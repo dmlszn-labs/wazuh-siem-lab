@@ -47,9 +47,6 @@ Configured security policies for endpoint monitoring.
 - Security alert detection
 - Policy configuration
 
-## Screenshots
-Screenshots of the Wazuh dashboard and alerts are included in the repository.
-
 
 ## Full Project Documentation
 
