@@ -50,9 +50,22 @@ Configured security policies for endpoint monitoring.
 ## Screenshots
 Screenshots of the Wazuh dashboard and alerts are included in the repository.
 
+
+## Full Project Documentation
+
+The full step-by-step setup process, configuration guide, and screenshots can be viewed here:
+
+🔗 **Full Documentation:**  
+https://docs.google.com/document/d/1WoC10tReE6E_TlzhPE-T3q_MuOywg-R_Yo3nd26o0G4/edit?usp=sharing
+
+
 ## Skills Demonstrated
 - Security Monitoring
 - SIEM Deployment
 - Log Analysis
 - Virtualization
 - Endpoint Security
+
+
+  ## Key Takeaways
+This project demonstrates how Wazuh can be deployed in a virtualized environment to monitor endpoint activity and detect potential security threats. It highlights the importance of centralized log monitoring and security policy enforcement in modern cybersecurity operations
