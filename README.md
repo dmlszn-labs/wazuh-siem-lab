@@ -12,7 +12,7 @@ This project demonstrates the deployment of a Wazuh Manager inside a virtual mac
 ## Lab Environment
 
 Host Machine:
-- Windows 10
+- Windows 11
 
 Virtualization:
 - VirtualBox
